@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  17 FEB 2026 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  19 FEB 2026 11:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,7 +270,11 @@ LaTeX Font Info:    ... okay on input line 17.
 {/nix/store/5lkvak5xm36zmr5v781pwlpisz74izqw-texlive-combined-full-2025.2025070
 3/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/nix/store/h03408lmim0far
 29q4dddmwvar4g6mgj-texlive-combined-full-2025.20250703-texmfdist/fonts/enc/dvip
-s/newtx/ntx-ot1-tlf.enc}] (./essay.aux)
+s/newtx/ntx-ot1-tlf.enc}]
+
+[2]
+
+[3] (./essay.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -279,17 +283,17 @@ L3 programming layer <2020/03/25>
 Here is how much of TeX's memory you used:
  3736 strings out of 467888
  65404 string characters out of 5405403
- 468119 words of memory out of 5000000
+ 472119 words of memory out of 5000000
  32268 multiletter control sequences out of 15000+600000
  628996 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,5n,77p,281b,115s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,6n,77p,281b,115s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/h03408lmim0far29q4dddmwvar4g6mgj-texlive-combined-full-2025.20250
 703-texmfdist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on essay.pdf (1 page, 37281 bytes).
+Output written on essay.pdf (3 pages, 48283 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 20 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
