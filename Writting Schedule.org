@@ -1,21 +1,20 @@
 #+TITLE: Course Schedule: W26 Crit Think Ac Rdg/Wrtg I (ENGL-101-A)
 
-* TODO Course Resources & General
-** TODO Access Syllabus and Course Schedule
-** TODO Listen to "The Hiding Place" audio version on YouTube
-** TODO Review "Melissa Doughtery Fallacies of Arguments" extra link
-
+* DONE Course Resources & General
+** DONE Access Syllabus and Course Schedule
+** DONE Listen to "The Hiding Place" audio version on YouTube
+** DONE Review "Melissa Doughtery Fallacies of Arguments" extra link
 * TODO Reading Responses: The Hiding Place
-** TODO Complete Reading Responses for Chapters 2 and 4
-** TODO Complete Reading Responses for Chapters 5 and 6
+** DONE Complete Reading Responses for Chapters 2 and 4
+** DONE Complete Reading Responses for Chapters 5 and 6
 ** TODO Complete Reading Responses for Chapters 9 and 10
 
 * TODO Essay Assignments
-** TODO Essay 1: Where I Am From
-*** TODO Review instructions for Personal Narrative Essay
-*** TODO Draft and submit "Where I am From" Essay
-** TODO Essay 2: This I Believe
-*** TODO Draft and submit "This I Believe" Essay
+** DONE Essay 1: Where I Am From
+*** DONE Review instructions for Personal Narrative Essay
+*** DONE Draft and submit "Where I am From" Essay
+** DONE Essay 2: This I Believe
+*** DONE Draft and submit "This I Believe" Essay
 ** TODO Essay 3: The Hiding Place Essay
 *** TODO Draft and submit "The Hiding Place" Essay
 
